@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PySpark-ETL-Eder-Stupka", "PySpark-ETL-Eder-Stupka\PySpark-ETL-Eder-Stupka.pyproj", "{25DBA251-7F96-4AC3-814F-D34899D40F16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25DBA251-7F96-4AC3-814F-D34899D40F16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25DBA251-7F96-4AC3-814F-D34899D40F16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1C6AD42-E174-4A73-A295-12697816B57D}
+	EndGlobalSection
+EndGlobal
